@@ -62,15 +62,33 @@ sqrock_myportfolio/
 
 ## ⚙️ Setup Instructions
 
-1. Clone the repository
-
+### Method 1: Clone Repository
 ```bash
 git clone https://github.com/OmkarPai2007/sqrock_myportfolio.git
 ```
 
-2. Open project folder in VS Code  
+---
 
-3. Run using Live Server  
+### Method 2: Download ZIP
+
+1. Click the **Code** button on GitHub  
+2. Select **Download ZIP**  
+3. Extract the ZIP file  
+
+---
+
+### Run Locally in VS Code
+
+1. Open the project folder in **Visual Studio Code**  
+2. Install the **Live Server** extension (if not installed)  
+3. Right-click on `index.html`  
+4. Click **"Open with Live Server"**  
+
+Your portfolio will open in the browser at:
+
+```bash
+http://127.0.0.1:5500/
+```  
 
 ---
 
